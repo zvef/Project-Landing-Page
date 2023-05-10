@@ -17,8 +17,8 @@
     justify-content:center;
     justify-content: space-around;
     flex-direction: row;
-    padding: 15px;
-    margin: 5px;
+    padding: 50px;
+    margin: 50px;
 }
 
 .body_two h2 {
@@ -35,8 +35,6 @@
     height: auto;
     background-color: #E5E7EB;
     color: #1f2937;
-    margin-top: 30px;
-    margin-bottom: 30px;
 }
 
 .b3_para {
@@ -48,9 +46,10 @@
     border-color: red; */
     font-size: 36px;
     justify-content: center;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin: 50px;
+    /* padding-left: 75px;
+    padding-right: 75px; */
+    margin: 25px;
+    padding: 25px;
 }
 
 .b3_quote {
