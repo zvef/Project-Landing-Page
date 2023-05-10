@@ -32,6 +32,15 @@ a {
 
 /*VVVVVVV SECOND ATTEMPT VVVVVVV*/
 
+button {
+    border-style: none;
+    height: 27px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #f9faf8;
+}
+
 a {
     color: #f9faf8;
 }
@@ -89,6 +98,11 @@ a {
     font-weight: 800;
     font-size: 48px;
     width: 50%;
+}
+
+.item p {
+    color: #f9faf8;
+    font-weight: lighter;
 }
 
 #Sign_Up {
