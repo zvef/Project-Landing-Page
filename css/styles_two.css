@@ -31,14 +31,18 @@
     /* border-style: dashed;
     border-color: aqua; */
     display: flex;
+    flex-direction: column;
     height: auto;
     background-color: #E5E7EB;
     color: #1f2937;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 30px;
 }
 
 .b3_para {
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
     display: flex;
     /* border-style: dashed;
     border-color: red; */
@@ -47,17 +51,18 @@
     padding-left: 50px;
     padding-right: 50px;
     margin: 50px;
-    flex-direction: row;
 }
 
 .b3_quote {
     font-size: 12px;
     font-weight: bold;
+    text-align: right;
+    padding-right: 150px;
+    padding-bottom: 50px;
 }
 
 .img_four {
     justify-content: space-around;
-    width: 100px;
-    height: 100px;
-
+    width: 175px;
+    height: 175px;
 }
