@@ -1,0 +1,13 @@
+.b4_blue {
+    border-style: dashed;
+    border-color: red;
+    display: flex;
+    height: 150px;
+}
+
+.b4_butt {
+    border-style: dashed;
+    border-color: blue;
+
+    /* flex: 1; */
+}
